@@ -1,4 +1,5 @@
 """
+via Baidu
 一个长为 N+1 的array, a[0] == a[N] == 1;
 for i in range(1, N): a[i] != a[i-1] and 1 <= a[i] <= M
 问: 有几种可能性.
